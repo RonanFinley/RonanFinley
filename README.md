@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ronan "DrYamok" Finley
+Working on some pretty neat things!
+I love making mods and manipulating code
 
 <!--
 **RonanFinley/RonanFinley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
